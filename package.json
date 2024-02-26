@@ -1,0 +1,19 @@
+{
+  "name": "graceful-shutdown",
+  "version": "1.0.0",
+  "description": "poc project for graceful-shutdown process in an application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chandrakant07-da/graceful-shutdown.git"
+  },
+  "author": "Chandrakant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chandrakant07-da/graceful-shutdown/issues"
+  },
+  "homepage": "https://github.com/Chandrakant07-da/graceful-shutdown#readme"
+}
